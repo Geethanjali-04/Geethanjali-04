@@ -1,5 +1,5 @@
-## **Step into My Code Universe** 🚀
-
+<h3 align="center"> Step into My Code Universe 🚀</h3>
+<hr>
 
 - 👋 **Hey, I’m Geethanjali** – A **MERN Stack Enthusiast** & **Web Developer** with a passion for innovation.
   
@@ -9,10 +9,9 @@
   
 - 🔥 **Curious?** Dive deeper into my work and let’s create something **extraordinary** together!
 
+---
 
-## 🛠️ **Tech Stack**  
-
-<h3 align="left">💻 Languages:</h3>
+<h4 align="left">💻 Languages:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -25,9 +24,7 @@
   </a>
 </p>
 
-<hr>
-
-<h3 align="left">🚀 Backend Tech Stack:</h3>
+<h4 align="left">🚀 Backend Tech Stack:</h3>
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -46,9 +43,7 @@
   </a>
 </p>
 
-<hr>
-
-<h3 align="left">🚀 Frontend Tech Stack:</h3>
+<h4 align="left">🚀 Frontend Tech Stack:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -61,9 +56,7 @@
   </a>
 </p>
 
-<hr>
-
-<h3 align="left">🛠 Tools:</h3>
+<h4 align="left">🛠 Tools:</h4>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -76,42 +69,37 @@
   </a>
 </p>
 
+---
 
+<h3 align="left">💼 Experience:</h3>
+<p align="left"><strong>Software Developer Intern | Vakilsearch</strong><br>
+<strong>Oct 2023 – Sep 2024</strong></p>
 
-## 💼 **Experience**  
-
-### Software Developer Intern | Vakilsearch  
-**Oct 2023 – Sep 2024**  
-
-- 🛠️ Developed and enhanced CRM systems using **Ruby on Rails**, improving user experience.
-  
-- 🔗 Integrated **third-party APIs** for seamless data exchange.
-  
-- ⚡ Optimized performance with **Redis caching**.
-  
+- 🛠️ Developed and enhanced CRM systems using **Ruby on Rails**, improving user experience.  
+- 🔗 Integrated **third-party APIs** for seamless data exchange.  
+- ⚡ Optimized performance with **Redis caching**.  
 - 🤝 Collaborated in an **Agile environment**, leveraging Git for version control.  
 
 ---
 
-## 🚀 **What I Do**  
+<h3 align="left">🚀 What I Do:</h3>
 
-- **Develop Dynamic Web Applications** using **Ruby on Rails**, **ReactJS**, and **Node.js**.
-    
-- **Work with Databases** like **MySQL**, **MongoDB**, and **Redis** for data management.
-   
+- **Develop Dynamic Web Applications** using **Ruby on Rails**, **ReactJS**, and **Node.js**.  
+- **Work with Databases** like **MySQL**, **MongoDB**, and **Redis** for data management.  
 - **Write Clean Code**: Ensuring scalability, readability, and adherence to best practices.  
 
 ---
 
-## 📬 **Let’s Connect & Build Something Amazing!**
-- **📧 Drop Me a Line**:  
-  [geethanjali.govindaraju@gmail.com](mailto:geethanjali.govindaraju@gmail.com)
+<h4 align="left">📬 Let’s Connect & Build Something Amazing!</h4>
 
-<h3 align="left">Connect with Me:</h3>
+- **📧 Drop Me a Mail at**: [geethanjali.govindaraju@gmail.com](mailto:geethanjali.govindaraju@gmail.com)  
+
+<h4 align="left">Connect with Me:</h4>
 <p align="left">
-  <a href="https://www.linkedin.com/in/geethanjali-gcse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geethanjali_govindaraju" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Geethanjali_G/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geethanjali_govindaraju" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/geethanjali-gcse/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geethanjali_govindaraju" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Geethanjali_G/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geethanjali_govindaraju" height="30" width="40" />
+  </a>
 </p>
-
-
-
